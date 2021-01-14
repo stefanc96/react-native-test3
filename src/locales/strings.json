@@ -1,0 +1,29 @@
+{
+  "onboarding1": {
+    "EN": "What's your phone \nnumber?"
+  },
+  "onboarding2": {
+    "EN": "What’s the verification \ncode"
+  },
+  "sendCode": {
+    "EN": "Send code"
+  },
+  "codeSentTo": {
+    "EN": "Code sent to"
+  },
+  "resendCode": {
+    "EN": "Resend code"
+  },
+  "yearsOld": {
+    "EN": "years old"
+  },
+  "livesIn": {
+    "EN": "Lives in"
+  },
+  "from": {
+    "EN": "From"
+  },
+  "aboutMe": {
+    "EN": "About me"
+  }
+}
